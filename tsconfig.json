@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "target": "ES2019",
+    "declaration": true,
+    "strict": true,
+    "allowSyntheticDefaultImports": true,
+    // "types": ["node"]
+  },
+  "exclude": ["node_modules", "bazel-dist"]
+}

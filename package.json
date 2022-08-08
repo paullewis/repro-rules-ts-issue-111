@@ -1,0 +1,8 @@
+{
+  "name": "rules_ts-111",
+  "version": "1.0.0",
+  "description": "Reduced test case",
+  "dependencies": {
+    "@types/node": "^18.6.4"
+  }
+}
